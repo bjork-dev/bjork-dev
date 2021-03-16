@@ -30,6 +30,7 @@
       <tr>
           <td><a href="#"><img alt="VS2019" title="VS2019" height="48px" src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png"/></a></td>
           <td><a href="#"><img alt="VS Code" title="VS Code" height="48px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/></a></td>
+          <td><a href="#"><img alt="FL Studio" title="FL Studio" height="48px" src="https://img.icons8.com/color/48/000000/fl-studio.png"/></a></td>
       </tr>
       <tr>
           <td><a href="#"><img alt="Stack Overflow" title="Too much" height="48px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a></td>
