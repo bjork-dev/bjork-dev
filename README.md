@@ -39,3 +39,5 @@
         </tr>
     </tbody>
 </table>
+
+Icons by https://icons8.com/
