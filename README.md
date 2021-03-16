@@ -2,7 +2,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![Linkedin Badge](https://img.shields.io/badge/-Liam-Björkman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-björkman-27493817b/)](https://www.linkedin.com/in/liam-björkman-27493817b)[![Gmail Badge](https://img.shields.io/badge/-liambjorkman00@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liambjorkman00@gmail.com)](mailto:liambjorkman00@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Liam_Björkman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liam-björkman-27493817b/)](https://www.linkedin.com/in/liam-björkman-27493817b)[![Gmail Badge](https://img.shields.io/badge/-liambjorkman00@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liambjorkman00@gmail.com)](mailto:liambjorkman00@gmail.com)
 
 
 <a href="https://github.com/bjork-dev/bjork-dev">
